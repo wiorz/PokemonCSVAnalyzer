@@ -1,6 +1,4 @@
-#Ko, Ivan
-#CS120-1F
-#HW2: pokemon
+#@author Ko, Ivan
 
 #About the program:
 #1. Read the file and santitize the inputs.
